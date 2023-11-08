@@ -1,5 +1,5 @@
-valid_email = "fable9@gmail.com"
-valid_password = "q199459q"
+valid_email = "valid_email"
+valid_password = "valid_password"
 
 unvalid_email = "gdsg@gfdg.com"
 unvalid_pass = "gdsg@gf"
